@@ -1,10 +1,10 @@
-## Project Title: Search Engine Development in C++ ( Self Project )
-# Project Description:
+# Project Title: Search Engine Development in C++ ( Self Project )
+## Project Description:
 Developed a high-performance Search Engine in C++ from scratch, leveraging advanced data 
 structures and memory management techniques. The project focused on providing a fully functional and 
 lightning-fast search experience while demonstrating proficiency in object-oriented programming, memory 
 management, and project organization.
-# Key Project Highlights:
+## Key Project Highlights:
 • Implemented a comprehensive search engine in C++ that can efficiently process large volumes of 
 data.
 • Utilized fundamental data structures like structs, classes, and maps to optimize search operations 
@@ -20,7 +20,7 @@ documents.
 • Ensured the project's responsiveness and speed by optimizing search algorithms and data structures.
 • Maintained a well-structured project organization, facilitating easy maintenance and future 
 enhancements.
-# Skills Demonstrated:
+## Skills Demonstrated:
 • Object-oriented programming: Implemented classes and structs to encapsulate data and 
 functionality.
 • Data structures: Utilized maps, tries, and heaps for efficient data storage and retrieval.
